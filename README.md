@@ -5,12 +5,12 @@
 Escape the maze by going from the start space target (blue bullseye target platform) and navigating to the end space target (red bullseye target platform). On reaching the end target the player will be transported out of the maze to a final win platform.
 
 ### Basic Controls
-left and right grip triggers - point and pull to teleport forward to a new location in the maze (blue reticle will appear on target area) or to select interactable keys (yellow reticle will appear on interable target). Holding the trigger will grab the interactable key and releasing will drop it.
+left and right grip triggers - point and pull to teleport forward to a new location in the maze (blue reticle will appear on target area) or to select interactable keys (yellow reticle will appear on interactable target). Holding the trigger will grab the interactable key and releasing will drop it.
 
 Right/left Toggle - Use to snap turn to change view angle
 
 ### Hints
-- The only interable will be one golden key
+- The only interactable will be one golden key
 - The key will allow access through blue obstacle doors
 
 
